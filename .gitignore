@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build & Intermediate Outputs
+dist/
+dist-ssr/
+build/
+coverage/
+server.js
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Environment Variables
+.env*
+!.env.example
+
+# Temporary & AI Studio Artifacts
+.aistudio/
+.gemini/
+public/assets/aistudio/
+v2-*.png
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor & OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/*
+!.vscode/extensions.json

@@ -1,0 +1,6 @@
+{
+  "name": "Delegate Orbital // Autonomous Cloud Sandbox Cockpit",
+  "description": "Next-generation delegation cockpit for Agent-Delegate. Outsource heavy agentic tasks from local Claude Code and MCP clients to isolated cloud sandboxes, with Grok-inspired real-time event telemetry, patch inspector, and provider orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
